@@ -1,4 +1,4 @@
-# Kodluyoruz Ilk Repo
+# **Kodluyoruz Ilk Repo**
 
 Bu repo [Patika.dev](https://app.patika.dev/) GIT Eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
 
@@ -28,3 +28,7 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
+
+![Proje](https://i.hizliresim.com/6lqbyd7.png)
+
+[Patika.dev](https://app.patika.dev/)
